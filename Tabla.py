@@ -1,4 +1,4 @@
-#Script Tablas
+#Script Tabla
 
 """
 programa que solicite al usuario el número de una tabla de
