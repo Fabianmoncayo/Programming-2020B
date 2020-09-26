@@ -9,10 +9,9 @@ multiplicar
 
 print("determine la tabla de un numero")
 print("digite un numero")
+n=int(input())
 
 #PROCESS
-
-n=int(input())
 
 print(n, " x 1 =", n*1)
 print(n, " x 1 =", n*2)
